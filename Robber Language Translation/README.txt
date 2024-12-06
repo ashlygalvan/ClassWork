@@ -1,7 +1,7 @@
-1. Ashly Vanesa Galvan Perez
-2. 2419577
-3. galvanperez@chapman.edu
-4. CPSC 350 - 02
+1. Ashly Galvan
+2. 
+3. 
+4. CPSC 350
 5. Programming Assignment 1: Robber Language Translation
 6. Source File:
     * pa1.cpp
