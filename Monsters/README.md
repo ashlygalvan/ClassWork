@@ -1,7 +1,5 @@
 Ashly Galvan Perez
-2419577
-galvanperez@chapman.edu
-CPSC 350-02
+CPSC 350
 PA 5 - Scare Games
 
 Source File:
