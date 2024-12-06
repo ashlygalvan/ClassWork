@@ -1,6 +1,6 @@
 1.  Ashly Galvan Perez
-2. 2419577
-3. galvanperez@chapman.edu
+2.
+3.
 4. CPSC 231 - 03
 2. Mastery Project 1: Drawing with 2D Arrays
 3. Files:
